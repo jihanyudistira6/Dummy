@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Revenue Analytics & Spreadsheet",
+  "description": "Dashboard penjualan e-commerce dengan visualisasi grafik pendapatan berurutan dari terbesar ke terkecil, filter daerah, dan spreadsheet interaktif terintegrasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
